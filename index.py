@@ -1,6 +1,6 @@
 """
-Name: Lakshay
-Roll No: 2301010306
+Name: Subham Sharma
+Roll No: 2301010292
 Course: Image Processing & Computer Vision
 Assignment Title: Intelligent Image Enhancement & Analysis System
 Date:
